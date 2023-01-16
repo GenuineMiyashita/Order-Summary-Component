@@ -1,13 +1,45 @@
+html {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
 body {
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
+    background-color: brown;
     border: 1px solid red;
+}
+
+img {
+    width: 100%;
+    object-fit: cover;
+    border-radius: 10px 10px 0 0;
 }
 
 .container {
     display: flex;
     flex-direction: column;
-    max-width: 95%;
+    align-items: center;
+    border-radius: 10px;
+    background-color: white;
+}
+
+#hero-section {
+    margin: 1rem;
+    padding: 1rem;
+    text-align: center;
+}
+
+#hero-section h1 {
+    color: #1f2f56;
+    font-size: 1.35rem;
+    font-weight: 900;
+    padding-bottom: 0.5rem;
+}
+
+#hero-section p {
+    color: #7280a7;
+    font-size: 1rem;
+    font-weight: 500;
 }
