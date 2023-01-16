@@ -22,8 +22,8 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Solution](https://your-solution-url.com)
-- Live Site URL: [Live](https://genuinemiyashita.github.io/QR-Code-Component/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/order-summary-component-bbPvELOBLw)
+- Live Site URL: [Live](https://genuinemiyashita.github.io/Order-Summary-Component/)
 
 ## My process
 
